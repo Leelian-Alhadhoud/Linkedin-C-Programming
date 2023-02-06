@@ -10,19 +10,19 @@ int main()
     switch(input)
     {
     case 1:
-    printf("Red");
+    printf("Red\n");
     break;
 
     case 2:
-    printf("Green");
+    printf("Green\n");
     break;
 
     case 3:
-    printf("Blue");
+    printf("Blue\n");
     break;
 
     default:
-    printf("invalid input");
+    printf("invalid input\n");
     }
 
     return (0);

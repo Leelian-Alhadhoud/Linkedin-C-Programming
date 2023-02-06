@@ -4,6 +4,9 @@ int main()
 {
     int input;
 
+    printf("Type a value (1,2,3): ");
+    scanf("%d" , &input);
+    
     if (input ==1)
     puts("Red");
     
